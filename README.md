@@ -2,9 +2,16 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://www.youtube.com/watch?v=zC5jgXp2oWU&t=943s)
+  - [Nessus Essntials - Vulnerability Management Lab]
+  - [Azure sentinal - Live cyber attacks lab]
+  - [Cybersecurity detection Home lab]
 
+<h2>📺 How to tutorials on YouTube! </h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+  - [pfSense: Installing and configuring a firewall]
+  - [Security Onion: Installing and configuring a SIEM]
+  - [Splunk: Installing and configuring a SOAR]
+  - [Kali linux: Installing and configuring a linux virtual machine]
 
 - [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
