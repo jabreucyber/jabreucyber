@@ -6,14 +6,16 @@
   - [Azure Sentinal - Live cyber attacks lab](https://www.youtube.com/@jonathanabreu502)
   - [Cybersecurity detection Home lab](https://www.youtube.com/@jonathanabreu502)
 
-<h2>📺 How to tutorials on YouTube! </h2>
+<h2>📺 How to tutorials on YouTube!: </h2>
 
   - [pfSense: Installing and configuring a firewall](https://www.youtube.com/@jonathanabreu502)
   - [Security Onion: Installing and configuring a SIEM](https://www.youtube.com/@jonathanabreu502)
   - [Splunk: Installing and configuring a SOAR/SIEM](https://www.youtube.com/@jonathanabreu502)
   - [Kali linux: Installing and configuring a linux virtual machine](https://www.youtube.com/@jonathanabreu502)
+  - [Windows 10 & Server 2019: Installing and configuring Windows virtual machines](https://www.youtube.com/@jonathanabreu502)
 
-<h2> 📄 Certifications (IN PROGRESS) </h2>
+
+<h2> 📄 Certifications (IN PROGRESS): </h2>
 
   - Security + (CE)
   - A + (CE)
