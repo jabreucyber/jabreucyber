@@ -12,7 +12,7 @@
   - [Security Onion: Installing and configuring a SIEM](https://www.youtube.com/@jonathanabreu502)
   - [Splunk: Installing and configuring a SOAR/SIEM](https://www.youtube.com/@jonathanabreu502)
   - [Kali linux: Installing and configuring a linux virtual machine](https://www.youtube.com/@jonathanabreu502)
-  - [Windows 10 & Server 2019: Installing and configuring Windows virtual machines](https://www.youtube.com/@jonathanabreu502)
+  - [Windows 10 & Server 2019: Installing and configuring a Windows virtual machine](https://www.youtube.com/@jonathanabreu502)
 
 
 <h2> 📄 Certifications (IN PROGRESS): </h2>
