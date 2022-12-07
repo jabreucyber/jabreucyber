@@ -2,18 +2,16 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://www.youtube.com/watch?v=zC5jgXp2oWU&t=943s)
-  - [Nessus Essntials - Vulnerability Management Lab]
-  - [Azure sentinal - Live cyber attacks lab]
-  - [Cybersecurity detection Home lab]
+  - [Nessus Essntials - Vulnerability Management Lab](https://www.youtube.com/@jonathanabreu502)
+  - [Azure sentinal - Live cyber attacks lab](https://www.youtube.com/@jonathanabreu502)
+  - [Cybersecurity detection Home lab](https://www.youtube.com/@jonathanabreu502)
 
 <h2>📺 How to tutorials on YouTube! </h2>
 
-  - [pfSense: Installing and configuring a firewall]
-  - [Security Onion: Installing and configuring a SIEM]
-  - [Splunk: Installing and configuring a SOAR]
-  - [Kali linux: Installing and configuring a linux virtual machine]
-
-- [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [pfSense: Installing and configuring a firewall](https://www.youtube.com/@jonathanabreu502)
+  - [Security Onion: Installing and configuring a SIEM](https://www.youtube.com/@jonathanabreu502)
+  - [Splunk: Installing and configuring a SOAR](https://www.youtube.com/@jonathanabreu502)
+  - [Kali linux: Installing and configuring a linux virtual machine](https://www.youtube.com/@jonathanabreu502)
 
 <h2> 📄 Certifications</h2>
 
