@@ -10,7 +10,7 @@
 
   - [pfSense: Installing and configuring a firewall](https://www.youtube.com/@jonathanabreu502)
   - [Security Onion: Installing and configuring a SIEM](https://www.youtube.com/@jonathanabreu502)
-  - [Splunk: Installing and configuring a SOAR](https://www.youtube.com/@jonathanabreu502)
+  - [Splunk: Installing and configuring a SOAR/SIEM](https://www.youtube.com/@jonathanabreu502)
   - [Kali linux: Installing and configuring a linux virtual machine](https://www.youtube.com/@jonathanabreu502)
 
 <h2> 📄 Certifications (IN PROGRESS) </h2>
