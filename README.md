@@ -14,8 +14,9 @@
   - [Kali linux: Installing and configuring a linux virtual machine](https://www.youtube.com/@jonathanabreu502)
 
 <h2> 📄 Certifications I am currenly working on </h2>
-- Security + (CE)
-- A + (CE)
+
+  - Security + (CE)
+  - A + (CE)
 
 <h2> 🤳 Connect with me:</h2>
 
