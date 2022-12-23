@@ -18,8 +18,8 @@
 
 <h2> 📄 Certifications (IN PROGRESS): </h2>
 
-  - Security + (CE)
-  - A + (CE)
+  - Security + 
+  - A + 
 
 <h2> 🤳 Connect with me:</h2>
 
