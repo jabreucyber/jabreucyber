@@ -19,7 +19,7 @@
 <h2> 📄 Certifications (IN PROGRESS): </h2>
 
   - Security + 
-  - A + 
+  - Network +
 
 <h2> 🤳 Connect with me:</h2>
 
