@@ -16,10 +16,9 @@
   - [Windows 10 & Server 2019: Installing and configuring a Windows virtual machine](https://www.youtube.com/@jonathanabreu502)
 
 
-<h2> 📄 Certifications (IN PROGRESS): </h2>
+<h2> 📄 Certifications: </h2>
 
-  - Security + 
-  - Network +
+  - Security +
 
 <h2> 🤳 Connect with me:</h2>
 
