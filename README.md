@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://www.youtube.com/watch?v=zC5jgXp2oWU&t=943s)
-  - [Nessus Essntials - Vulnerability Management Lab](https://www.youtube.com/@jonathanabreu502)
+  - [Nessus Essntials - Vulnerability Management Lab](https://www.youtube.com/watch?v=owWJUp2RUI0)
   - [Cybersecurity detection Home lab](https://www.youtube.com/@jonathanabreu502)
 
 <h2>📺 How to tutorials on YouTube!: </h2>
