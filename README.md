@@ -4,15 +4,6 @@
 
   - [Active Directory Home Lab](https://www.youtube.com/watch?v=zC5jgXp2oWU&t=943s)
   - [Nessus Essntials - Vulnerability Management Lab](https://www.youtube.com/watch?v=owWJUp2RUI0)
-  - [Cybersecurity detection Home lab](https://www.youtube.com/@jonathanabreu502)
-
-<h2>📺 How to tutorials on YouTube!: </h2>
-
-  - [pfSense: Installing and configuring a firewall](https://www.youtube.com/@jonathanabreu502)
-  - [Security Onion: Installing and configuring a SIEM](https://www.youtube.com/@jonathanabreu502)
-  - [Splunk: Installing and configuring a SOAR/SIEM](https://www.youtube.com/@jonathanabreu502)
-  - [Kali linux: Installing and configuring a linux virtual machine](https://www.youtube.com/@jonathanabreu502)
-  - [Windows 10 & Server 2019: Installing and configuring a Windows virtual machine](https://www.youtube.com/@jonathanabreu502)
 
 
 <h2> 📄 Certifications: </h2>
