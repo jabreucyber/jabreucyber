@@ -1,10 +1,10 @@
-<h1>Hi, I'm Jonathan! </hi>
+<h1>Hi, I'm Jonathan Abreu! </hi>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://www.youtube.com/watch?v=zC5jgXp2oWU&t=943s)
+  - [Active Directory Home Lab](https://www.youtube.com/watch?v=jDYvmmh9UJE&list=PL6vKENtKps4TZoK3pMVDcvhQKgdnaP-gr)
   - [Nessus Essntials - Vulnerability Management Lab](https://www.youtube.com/watch?v=owWJUp2RUI0)
-
+  - [Jira: Resolving common Jira tickets w/ Active directory]([https://www.youtube.com/watch?v=owWJUp2RUI0](https://youtu.be/D2qblvulZME))
 
 <h2> 📄 Certifications: </h2>
 
