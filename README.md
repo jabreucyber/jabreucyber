@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://www.youtube.com/watch?v=jDYvmmh9UJE&list=PL6vKENtKps4TZoK3pMVDcvhQKgdnaP-gr)
   - [Nessus Essntials - Vulnerability Management Lab](https://www.youtube.com/watch?v=owWJUp2RUI0)
-  - [Jira: Resolving common Jira tickets w/ Active directory](https://www.youtube.com/watch?v=owWJUp2RUI0](https://youtu.be/D2qblvulZME)
+  - [Jira: Resolving common Jira tickets w/ Active directory](https://youtu.be/D2qblvulZME)
 
 <h2> 📄 Certifications: </h2>
 
